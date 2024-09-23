@@ -1,0 +1,27 @@
+/*Jameson Brown*/
+/*@font-face {
+    font-family: "PirataOne";
+    src: url("fonts/pirataone-regular.ttf") downloaded from google fonts
+  }
+  the code above brings in a font downloaded to my computer*/
+  .pirata-one-regular {
+    font-family: "Pirata One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+body
+{ 
+  min-height: auto; /*Page opens in full screen*/
+    text-align: center;
+    font-size:x-large;
+    
+    background-color:rgb(211, 241, 161);
+    
+}
+ .VictorsReaction /*code learned from w3schools.com*/
+ {
+  font-family: "Pirata One", Arial, sans-serif;
+  font-size: 40px;
+ }
